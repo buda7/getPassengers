@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#FFBBBBBB</color>
+    <color name="yellow">#FFFFCC00</color>
+    <color name="button">#FF6200EE</color>
+</resources>
